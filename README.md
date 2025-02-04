@@ -1,4 +1,4 @@
-# Morse Code Encoder
+# Text to Morse Code Converter
 
 ## Description
 This Python program converts user-provided text into Morse code. It provides a simple interface where users can input a word or phrase and see its Morse code equivalent. Users can continue encoding multiple words/phrases or exit the program when done.
